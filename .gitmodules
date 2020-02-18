@@ -1,0 +1,6 @@
+[submodule "vobe-gql"]
+	path = vobe-gql
+	url = https://github.com/Vobe-io/vobe-gql
+[submodule "vobe-rest"]
+	path = vobe-rest
+	url = https://github.com/Vobe-io/vobe-rest
